@@ -1,0 +1,8 @@
+The logistic regression model achieved an overall accuracy of 86.69%.
+The model achieved a ROC-AUC of 0.8384, indicating good ability to distinguish between employees who stayed and employees who left.
+Specificity was 95.93%, showing that the model was highly effective at identifying employees who did not leave.
+Sensitivity was 38.30%, indicating that identifying actual employees who left remains the main area for model improvement.
+Precision was 64.29%, meaning that approximately 64% of employees predicted to leave actually belonged to the attrition group.
+The F1 Score was 48.00%, showing that the model has room for improvement in balancing precision and recall.
+The model used multiple employee characteristics including age, business travel, job role, job satisfaction, monthly income, overtime, work-life balance and employment history.
+ROC analysis, confusion matrix analysis and variable-importance analysis were used to evaluate and interpret the model.
